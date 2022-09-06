@@ -3,7 +3,7 @@
 const config = {
   github: {
     username: 'first5455', // Your GitHub org/user name. (Required)
-    sortBy: 'updated', // stars | updated
+    sortBy: 'stars', // stars | updated
     limit: 3, // How many projects to display.
     exclude: {
       forks: true, // Forked projects will not be displayed if set to true.
@@ -17,10 +17,10 @@ const config = {
     instagram: '',
     dribbble: '',
     behance: '',
-    medium: '',
+    medium: 'first545455',
     dev: '',
-    website: '',
-    phone: '',
+    website: 'https://first5455.github.io/portfolio/',
+    phone: '+66 922085128',
     email: 'supakornboonsongnern@gmail.com',
   },
   skills: [
@@ -51,8 +51,8 @@ const config = {
   ],
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
-    source: 'dev', // medium | dev
-    username: '', // to hide blog section, keep it empty
+    source: 'medium', // medium | dev
+    username: 'first545455', // to hide blog section, keep it empty
     limit: 3, // How many posts to display. Max is 10.
   },
   googleAnalytics: {
@@ -64,11 +64,11 @@ const config = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'corporate',
+    defaultTheme: 'procyon',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
-    disableSwitch: false,
+    disableSwitch: true,
 
     // Should use the prefers-color-scheme media-query,
     // using user system preferences, instead of the hardcoded defaultTheme
