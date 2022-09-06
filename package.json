@@ -6,10 +6,10 @@
   "author": "arifszn",
   "repository": {
     "type": "git",
-    "url": "https://github.com/arifszn/gitprofile.git"
+    "url": "https://github.com/first5455/portfolio.git"
   },
   "bugs": {
-    "url": "https://github.com/arifszn/gitprofile/issues"
+    "url": "https://github.com/first5455/portfolio/issues"
   },
   "files": [
     "dist/gitprofile.es.js",
