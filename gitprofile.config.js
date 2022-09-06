@@ -35,7 +35,7 @@ const config = {
   ],
   experiences: [
     {
-      company: 'Asger.co (Metrabyte)',
+      company: 'Asger.co',
       position: 'Developer',
       from: 'June 2022',
       to: 'Present',
